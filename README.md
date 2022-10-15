@@ -1,2 +1,2 @@
 # FuzzStore
-FuzzStore sells everthing
+FuzzStore sells ~~everthing~~ nothing
